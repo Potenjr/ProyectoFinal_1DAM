@@ -1,2 +1,3 @@
-#RULETA AMERICANA
-###Adrian Potenciano Vila 1ºDAM
+# Ruleta Americana
+
+## Adrian Potenciano Vila
